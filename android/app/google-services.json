@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665149205812",
+    "project_id": "parentsactivityapp",
+    "storage_bucket": "parentsactivityapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665149205812:android:d9123c2170f09d3594c961",
+        "android_client_info": {
+          "package_name": "com.parentchildapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXpAXwYy6h0iRu4TQ77Y0yxMR6WbvBvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
