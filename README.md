@@ -1,7 +1,8 @@
 # Task Scheduling App
 
 ## Download Here
-
+* Use this url to download the application
+  https://i.diawi.com/xrCfMv
 
 ## Tech Stack Used
 * React Native with TypeScript
